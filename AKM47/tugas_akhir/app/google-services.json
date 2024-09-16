@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100851230304",
+    "firebase_url": "https://tugas-akhir-67aa2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-akhir-67aa2",
+    "storage_bucket": "tugas-akhir-67aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100851230304:android:6656baa4b23bc7fa1e8505",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100851230304-qm014v7prodhefulpkv99702c1cqttsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyIDc9cXql6F0ym_TOOFonjvWTDnp4qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100851230304-qm014v7prodhefulpkv99702c1cqttsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
